@@ -2,7 +2,7 @@
     "$schema": "https://schema.freqtrade.io/schema.json",
     "max_open_trades": 3,
     "stake_currency": "USDT",
-    "stake_amount": 0.05,
+    "stake_amount": 25,
     "tradable_balance_ratio": 0.99,
     "fiat_display_currency": "USD",
     "timeframe": "5m",
@@ -31,8 +31,8 @@
     },
     "exchange": {
         "name": "binance",
-        "key": "your_exchange_key",
-        "secret": "your_exchange_secret",
+        "key": "2OOaTRYAzkeT3PIwh1aGiFvfLa9CoXzQYYfsrOy0Mj3wHraLuJ8KH2pEsjhsZNMT",
+        "secret": "Q57eMm9BwALVRI71HFKStyRehUWKucZh6KrnJAHymNgJ0uUqCivQVzxCzyTVvGNV",
         "ccxt_config": {},
         "ccxt_async_config": {
         },
